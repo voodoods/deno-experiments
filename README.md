@@ -1,2 +1,2 @@
-# fcc-deno-tutorial
-A tutorial following https://www.freecodecamp.org/news/the-deno-handbook/
+# deno-experiments
+Some experiments and examples using deno - https://deno.land/
